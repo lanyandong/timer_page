@@ -12,4 +12,4 @@
 需要对代码仓库进行设置  
 `Your GitHub Pages site is currently being built from the **master branch**. `
 
-点 **Star** 或者 **Fork 的人**，你们都很棒棒 ~
+👍 点 **Star** 或者 **Fork 的人**，你们都很棒棒 ~
